@@ -5,7 +5,7 @@
 
 
 
-<p align="center"><a href="https://"><img src="https://telegra.ph/file/59c4beed0412fbff7e840.jpg"></a></p> 
+<p align="center"><a href="https://"><img src="https://telegra.ph/file/fcb944ba85cd6d97e1e86.jpg"></a></p> 
 </p>
 <h1></h1>
               🔥 𝐌𝐀𝐃𝐄 𝐁𝐘 𝐏𝐘𝐓𝐇𝐎𝐍 🔥 .
@@ -16,7 +16,7 @@
 
                          
 
-# ＬＯＧＯ  <p align="center"><a href="https://"><img src="https://telegra.ph/file/59c4beed0412fbff7e840.jpg"></a></p> 
+# ＬＯＧＯ  <p align="center"><a href="https://"><img src="https://telegra.ph/file/fcb944ba85cd6d97e1e86.jpg"></a></p> 
 </p>
 
 
