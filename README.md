@@ -4,19 +4,19 @@
 
 <p align="center">
 
-<img src="https://telegra.ph/file/f3a82860656f0263bc8aa.jpg">
+<img src="https://telegra.ph/file/fcb944ba85cd6d97e1e86.jpg">
 
 -------------------------------------------------
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/sameerpanthi/SAVAGE-2.0-bot?utm_source=github.com&utm_medium=referral&utm_content=sameerpanthi/SAVAGE-2.0-bot&utm_campaign=Badge_Grade_Settings)
-[![Size](https://img.shields.io/github/repo-size/sameerpanthi/SAVAGE-2.0-BOT?style=flat-square&color=green)](https://github.com/sameerpanthi/SAVAGE-2.0-BOT/)   
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](JASSXPRO)
+[![Size](https://img.shields.io/github/repo-size/sameerpanthi/BLAC-BOT-2.0?style=flat-square&color=green)](https://github.com/sameerpanthi/BLAC-BOT-2.0/)   
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sameerpanthi/SAVAGE-2.0-BOT/graphs/commit-activity)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sameerpanthi/SAVAGE-2.0-BOT)   
-[![Contributors](https://img.shields.io/github/contributors/sameerpanthi/SAVAGE-2.0-BOT?style=flat-square&color=green)](https://github.com/sameerpanthi/SAVAGE-2.0-BOT/graphs/contributors)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sameerpanthi/BLAC-BOT-2.0/graphs/commit-activity)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sameerpanthi/BLAC-BOT-2.0)   
+[![Contributors](https://img.shields.io/github/contributors/sameerpanthi/BLAC-BOT-2.0?style=flat-square&color=green)](https://github.com/sameerpanthi/BLAC-BOT-2.0/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/sameerpanthi/SAVAGE-2.0-BOT/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/sameerpanthi/SAVAGE-2.0-BOT)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/sameerpanthi/BLAC-BOT-2.0/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/sameerpanthi/BLAC-BOT-2.0.svg)](https://stars.medv.io/sameerpanthi/sameerpanthi/BLAC-BOT-2.0)
 
 -------------------------------------------------
 
