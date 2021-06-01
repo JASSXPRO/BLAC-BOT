@@ -1,6 +1,6 @@
 
 {
-  "name": "BLAC-BOT",
+  "name": "BLAC-2.0-USERBOT",
   "description": "The BLAC-BOT made by @JATTGAMINGYT11 special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @BLACUSERBOT_SUPPORT",
   "logo": "https://telegra.ph/file/fcb944ba85cd6d97e1e86.jpg",
     "keywords": [
@@ -24,8 +24,8 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "@MafiaBot_Support",
+      "description": "Fill your Full name or Username like @JATTGAMINGYT11. By default it is Blac User",
+      "value": "BLAC ON FIRE",
       "required": false
     },
     "ALIVE_MSG": {
@@ -35,12 +35,12 @@
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .blac command.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://telegra.ph/file/0933d008a371cc0d205d9.mp4",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO BLAVBOT😈",
+      "value": "😈LEGEND'S SAY'S TO BLAC-BOT😈",
       "required": false
     },
     "PMPERMIT_PIC": {
@@ -108,7 +108,7 @@
        "value": "-1001174481876"
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
+      "description": "Get this value by running https://replit.com/@BLACJASS/Blac-20-Userbot#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -123,7 +123,7 @@
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": "1445762068:AAG_-327E_oIzta6TGGbdc6-RqePyM8fyR8"
+      "value": "1740143724:AAGLiDcUb-2ZnUM64QQLtCX0J-KjXX9TGq4"
     },
     "CHROME_BIN": {
       "description": "For Carbon.py. Leave as it is. ",
@@ -137,7 +137,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@MAFIA_PUBLIC_bot"
+      "value": "@BLAC_USERBOT_BOT"
     },
     "OPEN_WEATHER_MAP_APPID": {
       "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
