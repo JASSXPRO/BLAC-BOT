@@ -24,34 +24,34 @@
 
 -------------------------------------------------
 
-
-## STATUS OF THIS BOTS 
+                 
+## 𝚂𝚃𝙰𝚃𝚄𝚂 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃
 <p align="left"><a href="https://github.com/sameerpanthi/SAVAGE-2.0-bot/network/members"><img src="https://img.shields.io/github/forks/sameerpanthi/SAVAGE-2.0-bot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/SAVAGE-2.0-bot/stargazers"><img src="https://img.shields.io/github/stars/sameerpanthi/SAVAGE-2.0-bot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/SAVAGE-2.0-bot"></a><p align="left"><a href="https://github.com/sameerpanthi/SAVAGE-2.0-bot?"><img src="https://img.shields.io/github/last-commit/sameerpanthi/SAVAGE-2.0-bot?style=plastic"></a>
 
 
 -------------------------------------------------
 
-𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [𝙱𝙻𝙰𝙲 𝙹𝙰𝚂𝚂](https://t.me/SAMEER_795)
+𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [𝙱𝙻𝙰𝙲 𝙹𝙰𝚂𝚂](https://t.me/)
 
 -------------------------------------------------
 
-## Join our Support Channel and Group regrading bug fixes
+## 𝙹𝙾𝙸𝙽 𝙾𝚄𝚁 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙲𝙷𝙰𝙽𝙽𝙴𝙻𝚂 𝙵𝙾𝚁 𝙵𝚄𝚃𝚄𝚁𝙴 𝚄𝙿𝙳𝙰𝚃𝙴𝚂
 
-<a href="https://t.me/joinchat/0KCyT0MHyAhmMmRl"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/BLACUSERBOT_SUPPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 <a href="https://t.me/joinchat/qCIk-af6VW1kNDll"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
-## FOR DEPLOY BOT 
+## 𝙵𝙾𝚁 𝙳𝙴𝙿𝙻𝙾𝚈 𝙱𝙾𝚃
 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/SAVAGE-2.0-bOT)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/BLAC-BOT-2.0)
 
 ------------------------------------------------
 
-TAKE STRING FROM HERE -
-
-[![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@sameerpanthi/SAVAGE-BOT#main.py)
+𝚃𝙰𝙺𝙴 𝚂𝚃𝚁𝙸𝙽𝙶 𝙵𝚁𝙾𝙼 𝙷𝙴𝚁𝙴
+                    
+[![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@BLACJASS/Blac-20-Userbot#main.py)
     
 -------------------------------------------------
 
