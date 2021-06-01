@@ -45,7 +45,7 @@
 ## 𝙵𝙾𝚁 𝙳𝙴𝙿𝙻𝙾𝚈 𝙱𝙾𝚃
 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/BLAC-BOT-2.0)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/BLAC-2.0-BOT)
 
 ------------------------------------------------
 
