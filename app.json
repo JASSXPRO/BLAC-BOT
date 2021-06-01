@@ -29,12 +29,12 @@
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .mafia Command.",
+      "description": "Set Custom Alive Message When entering .awake Command.",
       "value": "😈BLAC BOT IS ALIVE😈",
       "required": false
     },
     "ALIVE_PIC": {
-      "description": "Put here any telegraph media link for alive pic in .blac command.",
+      "description": "Put here any telegraph media link for alive pic in .awake command.",
       "value": "https://telegra.ph/file/0933d008a371cc0d205d9.mp4",
       "required": false
     },
