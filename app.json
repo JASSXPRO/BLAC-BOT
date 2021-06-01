@@ -10,8 +10,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/JASSXPRO/BLAC-BOT/",
-  "website": "https://github.com/JASSXPRO/BLAC-BOT/",
+  "repository": "https://github.com/sameerpanthi/BLAC-2.0-BOT/",
+  "website": "https://github.com/sameerpanthi/BLAC-2.0-BOT",
   "success_url": "https://t.me/BLACUSERBOT_SUPPORT",
   "env": {
     "ENV": {
@@ -34,7 +34,7 @@
       "required": false
     },
     "ALIVE_PIC": {
-      "description": "Put here any telegraph media link for alive pic in .mafia command.",
+      "description": "Put here any telegraph media link for alive pic in .blac command.",
       "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
       "required": false
     },
