@@ -4,19 +4,19 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $MAFIA_REPO == "BLAC-2.0-BOT" ]]
+    if [[ $BLACBOT_REPO == "BLAC-2.0-BOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbWVlcnBhbnRoaS9CTEFDLTIuMC1VU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
-    elif [[ $MAFIA_REPO == "BLAC-2.0-BOT" ]]
+    elif [[ $BLACBOT_REPO == "BLAC-2.0-BOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbWVlcnBhbnRoaS9CTEFDLTIuMC1VU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
-    elif [[ $MAFIA_REPO =~ $regex ]]
+    elif [[ $BLACBOT_REPO =~ $regex ]]
     then
-        if [[ $MAFIA_REPO_BRANCH ]]
+        if [[ $BLACBOT_REPO_BRANCH ]]
         then
-            echo "${MAFIA_REPO}/archive/${MAFIA_REPO_BRANCH}.zip"
+            echo "${BLACBOT_REPO}/archive/${BLACBOT_REPO_BRANCH}.zip"
         else
-            echo "${MAFIA_REPO}/archive/master.zip"
+            echo "${BLACBOT_REPO}/archive/master.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbWVlcnBhbnRoaS9CTEFDLTIuMC1VU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
@@ -30,13 +30,13 @@ _set_bot () {
     echo "  Downloading source code ..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
-    MAFIAPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    BLACBOTPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
     echo "  Cleaning ..."
     rm -rf "$zippath"
     sleep 5
-    cd $MAFIAPATH
+    cd $BLACBOTPATH
     echo "    Starting savagebot    "
     echo "
                           ╔═╦═╦══╦══╦══╦══╦══╦═╦══╗
