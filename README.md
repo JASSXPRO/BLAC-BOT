@@ -30,7 +30,7 @@
 #       <h4>⚜️ ＤＥＰＬＯＹ ＴＯ ＨＥＲＯＫＵ ⚜️</h4>
 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/BLAC-2.0-BOT)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JASSXPRO/BLAC-BOT)
 
 
 # <h4>⚜️ ＳＴＲＩＮＧ ＳＥＳＳＩＯＮ ⚜️</h4>
