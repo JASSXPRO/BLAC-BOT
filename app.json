@@ -79,7 +79,7 @@
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot sudo access",
-      "value": "",
+      "value": "1841835189",
       "required": false
     },
     "SUDO_COMMAND_HAND_LER": {
