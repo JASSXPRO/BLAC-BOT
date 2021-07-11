@@ -24,7 +24,6 @@
 ##  ＣＲＥＤＩＴ   <h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2>
  One and only. Others with some misfuntioning brain stay
 
-#HIMANSHU RANDI 
 
 
 #       <h4>⚜️ ＤＥＰＬＯＹ ＴＯ ＨＥＲＯＫＵ ⚜️</h4>
