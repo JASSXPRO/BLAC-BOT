@@ -50,3 +50,4 @@
     [-] API_HASH :   You can get this value from https://my.telegram.org
     
 [+] The Blac Bot will not work without setting the mandatory vars.
+wowo
